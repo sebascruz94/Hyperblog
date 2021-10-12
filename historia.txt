@@ -16,9 +16,13 @@ experimento 1
 experimento 21
 
 
+<<<<<<< HEAD
 
 ejemplo 2
 
 ejmeplo maestro 3
+=======
+si señorrrrrr
+>>>>>>> master2
 master 3
 Mañana nos enfocaremos en su vida laboral
